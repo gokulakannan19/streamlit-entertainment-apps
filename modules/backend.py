@@ -17,7 +17,7 @@ def put_flames(name1, name2):
 
 
 def cyclic_elimination(count):
-    flames_list = ["Friends", "Love", "Affectionate", "Marrage",
+    flames_list = ["Friends", "Love", "Affectionate", "Marriage",
                    "Enemy", "Sister"]
 
     while len(flames_list) > 1:
